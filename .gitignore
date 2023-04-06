@@ -1,0 +1,4 @@
+/venv/
+build/
+dist/
+gen_passwords_GUI.spec
